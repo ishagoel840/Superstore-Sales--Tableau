@@ -1,6 +1,5 @@
 # Superstore Sales Dataset
 ###### Tools Used: Tableau
-(![superstore Dashboard](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/930bd637-6c87-49db-9428-1bb5e1b502a0))
 
 ![Hypermarket-Shopping-Hand-Push-Trolley-Metal-Supermarket-Trolley](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/ff007c01-e3bb-43ca-a62f-b69b992a542e)
 
