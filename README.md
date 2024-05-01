@@ -2,6 +2,8 @@
 ###### Tools Used: Tableau
 (![superstore Dashboard](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/930bd637-6c87-49db-9428-1bb5e1b502a0))
 
+![Hypermarket-Shopping-Hand-Push-Trolley-Metal-Supermarket-Trolley](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/ff007c01-e3bb-43ca-a62f-b69b992a542e)
+
 
 ## Project Description
 This Tableau Superstore Sales Dashboard is designed to provide a detailed analysis of the sales performance of a fictional superstore. The dashboard utilizes Tableau, a powerful data visualization tool, to offer insights into key metrics such as Sales and Profit distribution by state, Monthly Sales by Segment, and Total Sales by Location and Manager.
