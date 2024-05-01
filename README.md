@@ -1,8 +1,15 @@
 # Superstore Sales Dataset
 ###### Tools Used: Tableau
 
-## Dashboard Description
+## Project Description
 This Tableau Superstore Sales Dashboard is designed to provide a detailed analysis of the sales performance of a fictional superstore. The dashboard utilizes Tableau, a powerful data visualization tool, to offer insights into key metrics such as Sales and Profit distribution by state, Monthly Sales by Segment, and Total Sales by Location and Manager.
+
+## Skills/Concepts Developed
+Data analysis
+Data visualization
+Dashboard creation using Tableau
+Parameterization and filtering
+Interactive dashboard design
 
 ## Features
 ### 1. Sales and Profit Distribution by State
@@ -17,5 +24,14 @@ Easy comparison of sales figures for strategic decision-making.
 ### 4. Total Sales by Manager
 Analysis of total sales attributed to different managers.
 Identification of top-performing managers and their impact on sales.
+
+## Conclusion
+Through the analysis and visualization of the Superstore dataset, several key insights were uncovered:
+
+Region-wise sales distribution highlights areas of strength and weakness.
+Top-performing states provide opportunities for targeted marketing and sales strategies.
+Sub-category sales analysis identifies product categories with high and low performance.
+Sales trends over time reveal seasonal patterns and long-term growth trends.
 ## Data Source
 The dashboard is powered by the Superstore dataset, a sample dataset provided by Tableau for educational and practice purposes. The dataset includes information about orders, customers, products, and sales.
+
