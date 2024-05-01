@@ -1,6 +1,6 @@
 # Superstore Sales Dataset
 ###### Tools Used: Tableau
-![Alt text](![superstore Dashboard](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/930bd637-6c87-49db-9428-1bb5e1b502a0))
+(![superstore Dashboard](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/930bd637-6c87-49db-9428-1bb5e1b502a0))
 
 
 ## Project Description
