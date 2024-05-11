@@ -1,5 +1,6 @@
-# Superstore Sales Dataset
-"Superstore Sales" generally refers to the sales data and performance of a superstore or a large retail store that offers a wide range of products and merchandise. These superstores are typically known for their extensive inventory, competitive pricing, and one-stop shopping experience.
+# Superstore Sales Dataset🛒
+##### (Sales Overview of the superstore data)
+"Superstore Sales💸" generally refers to the sales data and performance of a superstore or a large retail store that offers a wide range of products and merchandise. These superstores are typically known for their extensive inventory, competitive pricing, and one-stop shopping experience.
 ###### Tools Used: Tableau
 
 ![Hypermarket-Shopping-Hand-Push-Trolley-Metal-Supermarket-Trolley](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/ff007c01-e3bb-43ca-a62f-b69b992a542e)
@@ -10,26 +11,35 @@ This Tableau Superstore Sales Dashboard is designed to provide a detailed analys
 
 ## Skills/Concepts Developed
 Data analysis
+
 Data visualization
+
 Dashboard creation using Tableau
+
 Parameterization and filtering
+
 Interactive dashboard design
 
-## Features
-### 1. Sales and Profit Distribution by State
-Geographical representation of sales and profit across different states.
-Drill-down capability to analyze individual state performance.
-### 2. Monthly Sales by Segment
-Visualization of monthly sales trends categorized by customer segments.
-Insights into the performance of each segment over time.
-### 3. Total Sales by Location
-Mapping of total sales based on different store locations.
-Easy comparison of sales figures for strategic decision-making.
-### 4. Total Sales by Manager
-Analysis of total sales attributed to different managers.
-Identification of top-performing managers and their impact on sales.
+## Dashboard Components🧑‍💻 💲:
 
-## Conclusion
+### 1.	Calculated Total Sales, Total profit, Total Volume and Sales Per Customer and displayed on the dashboard.
+### 2.	Percent of Total Sales by Region: 
+Created a Pie chart displaying total sales by region. Easy comparison of sales figures for strategic decision-making. Drill-down capability to analyze individual state performance.
+### 3.	Top N States by Sales:
+Created a bar chart displaying the top-performing states with a parameter control.
+### 4.	Sales Trend by Month-Year: 
+Created a line chart, facilitating clear interpretation of sales patterns by Month-Year.
+### 5.	Sales by Sub-Category: 
+Created a bubble chart to visualize sales by sub-category, with color-coded bubbles enhancing categorization for intuitive insights into product sales dynamics.
+
+###### Throughout the project, I utilized various Tableau’s features to create interactive dashboard.
+
+
+
+
+
+
+## Conclusion🚀
 Through the analysis and visualization of the Superstore dataset, several key insights were uncovered:
 
 Region-wise sales distribution highlights areas of strength and weakness.
