@@ -1,4 +1,5 @@
 # Superstore Sales Dataset
+"Superstore Sales" generally refers to the sales data and performance of a superstore or a large retail store that offers a wide range of products and merchandise. These superstores are typically known for their extensive inventory, competitive pricing, and one-stop shopping experience.
 ###### Tools Used: Tableau
 
 ![Hypermarket-Shopping-Hand-Push-Trolley-Metal-Supermarket-Trolley](https://github.com/ishagoel840/Superstore-Sales--Tableau/assets/163164421/ff007c01-e3bb-43ca-a62f-b69b992a542e)
